@@ -1,0 +1,11 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=117
+
+Another C# syntax colorizer, this one made by a friend and I over the course of Beta 2. Some things don't work correctly, or aren't done yet (#region folding, stuff like that), but it's fairly generic enough to have a nice base for adding things.
+
+To add:
+- error classes
+- directionals (and call them that)
+- operators
+- #region folding
+
+I'll copy the contents of the System classes and integrate coloring for that (probably by copying wholesale from vimscript #116) if someone really wants me to do so. Ain't Open Source great? =P
